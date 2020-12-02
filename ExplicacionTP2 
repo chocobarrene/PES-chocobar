@@ -1,0 +1,19 @@
+
+
+                                                                                       Chocobar Horacio Rene    PES
+Trabajo practico n2
+
+Tratamiento digital de señales ECG.
+
+Punto 1 para aprobar cursada y punto 2 para promociòn.
+
+Punto 1:
+
+Se tomara de la pàgina " Physionet.com" dos señales de ecg. Una de ellas serà normal y la otra presentarà alguna patologia reconocible.
+Luego, a las dos señales se les impondra diferentes tipos de ruido, para simular una señal de ecg tomada en condiciones normales.
+
+El obgetivo del primer punto serà, a ambas señales, aplicarles diferentes estrategias de filtrado, e identificar cual de ellas es la mas eficiente para recuperar las señales originales. 
+
+Punto 2:
+
+El obgetivo del segundo punto serà, una vez recuperada las dos señales, por medio de algoritmos de derivacion y filtrado, la identificacion de cual de ellas es la que presenta la patologia y cual es la normal.
